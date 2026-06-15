@@ -46,8 +46,8 @@ An extended analysis replacing the distance metric with a relative travel cost m
 - After bans in 14 states, the ripple effects were felt in neighbouring states, which saw sharp increases in clinic congestion as residents crossed state lines to access care.
 - By August 2025, congestion had eased in West Texas (linked to new clinics in New Mexico, Colorado, and Wyoming) but worsened across Arkansas, Missouri, Iowa, Illinois, Indiana, and Ohio.
 - Driving distances changed very little between 2023 and 2025, suggesting new clinics opened mainly in cities already served, doing little for rural counties.
-- In some counties, a round trip to the nearest clinic costs up to **5% of median monthly household income**.
-- Access is heavily concentrated, with some individual clinics serving up to **3.5 million people**. The closure of a small number of pivotal facilities could dramatically reshape the national access landscape.
+- In some counties, a round trip to the nearest clinic now costs up to **5% of median monthly household income**.
+- Access is heavily concentrated, with some individual clinics now serving up to **3.5 million people**. The closure of a small number of pivotal facilities could dramatically reshape the national access landscape.
 
 ---
 
