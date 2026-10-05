@@ -1,4 +1,4 @@
-# Abortion Access in the USA — Data Visualisation
+# Data Visualisation: Abortion Access in the USA
 
 **Course:** Data Visualisation | MSc Computational Social Science at UC3M  
 **Author:** Clare McGarvey  
